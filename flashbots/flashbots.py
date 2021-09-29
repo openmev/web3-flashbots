@@ -16,7 +16,7 @@ from .types import (
 )
 import time
 
-SECONDS_PER_BLOCK = 15
+SECONDS_PER_BLOCK = 13.25
 
 
 class FlashbotsRPC:
