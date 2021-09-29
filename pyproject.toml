@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "flashbots"
-version = "1.0.0"
-description = ""
+name = "openmev-web3py"
+version = "0.5.0"
+description = "Fork of Flashbots Web3.py"
 readme = "README.md"
 authors = ["Georgios Konstantopoulos <me@gakonst.com>", "Nikolas Papaioannou <n0k0@hacky.software>"]
 
